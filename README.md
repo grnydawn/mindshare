@@ -1,0 +1,2 @@
+# mindshare
+mind sharing app
